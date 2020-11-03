@@ -9,7 +9,7 @@ Using an Arduino Micro:
  - Connect 8ohm speaker to -ve and pin 10 on the Arduino
  - Connect Cootie key to 2 and 3 (dit and dah) on the Arduino, with the centre contact to -ve
  - Remember to debounce the cootie inputs via a resistor to +ve rail
- - Optionally, connects leds to pins 8 and 9 for a visual aid on timing
+ - Optionally, connect leds to pins 8 and 9 for a visual aid on timing
  
  Numbers,letters, and some punctuation is supported. Adding new punctuation or even prosigns should be self explanatory for the code.
  
